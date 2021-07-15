@@ -1,5 +1,12 @@
 # ec-workers-transferrable-protobuf
 
+## Original presentation
+
+This repository is a part of the original presentation "WebWorkers e Protobuf", by Gustavo Gondim. Click the image below to view it.
+
+[![image](https://user-images.githubusercontent.com/2074685/125857598-8864ad1f-6319-41f4-9050-57bd20cb94cd.png)](https://docs.google.com/presentation/d/e/2PACX-1vR5HOwby9Sxi-YaGqn4cltGHU0CD14q9wDx-JJESU14ftINb9SBR1aBs3kesJQK205xkgZw5Kci2W0j/pub?start=true&loop=false&delayms=60000)
+
+
 <br>
 
 ## Project setup
