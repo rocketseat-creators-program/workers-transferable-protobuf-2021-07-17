@@ -1,5 +1,5 @@
-
 <img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+
 # WebWorkers com Protobuf
 
 Nesse vídeo iremos falar de como utilizar acelerar a performance das suas aplicações web utilizando WebWorkers, especialmente com Transferables e Protocol Buffers (protobuf).
