@@ -2,7 +2,7 @@
 
 # WebWorkers com Protobuf
 
-Nesse vídeo iremos falar de como utilizar acelerar a performance das suas aplicações web utilizando WebWorkers, especialmente com Transferables e Protocol Buffers (protobuf).
+Nesse vídeo iremos falar de como utilizar a aceleração de performance das suas aplicações web utilizando WebWorkers, especialmente com Transferables e Protocol Buffers (protobuf).
 
 ## Expert
 
