@@ -1,6 +1,14 @@
-# ec-workers-transferrable-protobuf
 
-## Original presentation
+
+# WebWorkers com Protobuf
+
+Nesse vídeo iremos falar de como utilizar acelerar a performance das suas aplicações web utilizando WebWorkers, especialmente com Transferables e Protocol Buffers (protobuf).
+
+## Expert
+
+| [<img src="https://avatars.githubusercontent.com/u/2074685?v=4" width="75px;"/>](https://github.com/ggondim) |
+| :-: |
+|[Gustavo Gondin](https://github.com/ggondim)|
 
 This repository is a part of the original presentation "WebWorkers e Protobuf", by Gustavo Gondim. Click the image below to view it.
 
